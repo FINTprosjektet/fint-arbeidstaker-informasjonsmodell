@@ -9571,8 +9571,8 @@
 			</element>
 			<element xmi:idref="EAID_444F85A0_6C8E_4297_9C26_338EDD57EE54" xmi:type="uml:Class" name="Myndighet" scope="public">
 				<model package="EAPK_78551C14_25D6_46ad_B5E5_D764943227F7" tpos="0" ea_localid="475" ea_eleType="element"/>
-				<properties documentation="Myndighet på en kontodimensjon eller organisasjonselement." isSpecification="false" sType="Class" nType="0" scope="public" stereotype="hovedklasse" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
-				<project author="crossover" version="1.0" phase="1.0" created="2021-02-19 12:13:21" modified="2021-02-19 13:19:42" complexity="1" status="Proposed"/>
+				<properties documentation="Myndighet på kontodimensjon eller organisasjonselement." isSpecification="false" sType="Class" nType="0" scope="public" stereotype="hovedklasse" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
+				<project author="crossover" version="1.0" phase="1.0" created="2021-02-19 12:13:21" modified="2021-02-19 13:36:45" complexity="1" status="Proposed"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 				<tags/>
@@ -16742,7 +16742,7 @@
 					<constraints/>
 					<modifiers isOrdered="false" changeable="none" isNavigable="false"/>
 					<style value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
-					<documentation value="Myndighet som er delegert en personalressurs for en gitt fullmakt."/>
+					<documentation value="Myndighet som er delegert en personalressurs for en fullmakt."/>
 					<xrefs/>
 					<tags/>
 				</target>
