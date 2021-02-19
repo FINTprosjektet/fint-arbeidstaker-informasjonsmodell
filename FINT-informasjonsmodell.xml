@@ -16725,7 +16725,7 @@
 					<constraints/>
 					<modifiers isOrdered="false" changeable="none" isNavigable="false"/>
 					<style value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
-					<documentation value="Myndighet til kontodimensjon funksjon."/>
+					<documentation value="Myndighet på kontodimensjon funksjon."/>
 					<xrefs/>
 					<tags/>
 				</target>
@@ -16830,7 +16830,7 @@
 					<constraints/>
 					<modifiers isOrdered="false" changeable="none" isNavigable="false"/>
 					<style value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
-					<documentation value="Myndighet til kontodimensjon løpenummer."/>
+					<documentation value="Myndighet på kontodimensjon løpenummer."/>
 					<xrefs/>
 					<tags/>
 				</target>
@@ -16900,7 +16900,7 @@
 					<constraints/>
 					<modifiers isOrdered="false" changeable="none" isNavigable="false"/>
 					<style value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
-					<documentation value="Myndighet til kontodimensjon ramme."/>
+					<documentation value="Myndighet på kontodimensjon ramme."/>
 					<xrefs/>
 					<tags/>
 				</target>
@@ -16935,7 +16935,7 @@
 					<constraints/>
 					<modifiers isOrdered="false" changeable="none" isNavigable="false"/>
 					<style value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
-					<documentation value="Myndighet til kontodimensjon diverse."/>
+					<documentation value="Myndighet på kontodimensjon diverse."/>
 					<xrefs/>
 					<tags/>
 				</target>
@@ -16970,7 +16970,7 @@
 					<constraints/>
 					<modifiers isOrdered="false" changeable="none" isNavigable="false"/>
 					<style value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
-					<documentation value="Myndighet til kontodimensjon kontrakt."/>
+					<documentation value="Myndighet på kontodimensjon kontrakt."/>
 					<xrefs/>
 					<tags/>
 				</target>
@@ -17005,7 +17005,7 @@
 					<constraints/>
 					<modifiers isOrdered="false" changeable="none" isNavigable="false"/>
 					<style value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
-					<documentation value="Myndighet til organisasjonselement."/>
+					<documentation value="Myndighet på organisasjonselement."/>
 					<xrefs/>
 					<tags/>
 				</target>
@@ -17040,7 +17040,7 @@
 					<constraints/>
 					<modifiers isOrdered="false" changeable="none" isNavigable="false"/>
 					<style value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
-					<documentation value="Myndighet til kontodimensjon ansvar."/>
+					<documentation value="Myndighet pål kontodimensjon ansvar."/>
 					<xrefs/>
 					<tags/>
 				</target>
