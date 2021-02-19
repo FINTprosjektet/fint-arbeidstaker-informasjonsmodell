@@ -16605,14 +16605,14 @@
 				<properties ea_type="Association" direction="Bi-Directional"/>
 				<modifiers isRoot="false" isLeaf="false"/>
 				<parameterSubstitutions/>
-				<documentation value="Erstattes av relasjoner til Myndighet"/>
+				<documentation/>
 				<appearance linemode="3" linecolor="-1" linewidth="0" seqno="0" headStyle="0" lineStyle="0"/>
 				<labels lb="0..*" lt="+fullmakt" rb="1..*" rt="+myndighet"/>
 				<extendedProperties/>
 				<style/>
 				<xrefs/>
 				<tags>
-					<tag xmi:id="EAID_A6A29892_A02E_4db7_8D93_ADE66E9F5125" name="DEPRECATED"/>
+					<tag xmi:id="EAID_A6A29892_A02E_4db7_8D93_ADE66E9F5125" name="DEPRECATED" notes="Erstattes av Myndighet."/>
 				</tags>
 			</connector>
 			<connector xmi:idref="EAID_6EBF2CA1_2390_4bfe_9F64_5CD2D35D90FB">
